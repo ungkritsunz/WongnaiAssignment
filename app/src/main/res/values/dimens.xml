@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_connect_status">10sp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_head">16sp</dimen>
+    <dimen name="text_detail">14sp</dimen>
+    <dimen name="text_remark">12sp</dimen>
+    <dimen name="text_big_title">22sp</dimen>
+    <dimen name="text_logo_title">30sp</dimen>
+    <dimen name="text_note">10sp</dimen>
+    <dimen name="text_tab_item">12sp</dimen>
+    <dimen name="text_edt">16sp</dimen>
+
+    <dimen name="image_item">50dp</dimen>
+</resources>

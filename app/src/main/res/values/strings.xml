@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WongnaiAssignment</string>
+    <string name="ibc_header_dummy">Header Dummy</string>
+    <string name="ibc_detail_dummy">Detail Dummy</string>
+
+    <!--    Util Region-->
+    <string name="utils_done">ตกลง</string>
+    <string name="utils_nocontent_network">ไม่สามารถใช้งานได้เนื่องจากไม่มีการเชื่อมต่ออินเตอร์เน็ต</string>
+    <string name="utils_nocontent">ไม่สามารถเชื่อมต่อได้</string>
+    <string name="utils_nocontent_ro_time">ไม่สามารถเชื่อมต่อได้หรือหมดเวลาการเชื่อมต่อกรุณารอและทำรายการใหม่</string>
+    <string name="utils_loading">Loading. . .</string>
+    <string name="ibc_icon_content_descript">Icon Bitcoin.</string>
+    <string name="iet_empty_list">ไม่มีรายการข้อมูล</string>
+    <string name="bc_search">ค้นหา</string>
+
+
+</resources>
